@@ -1,0 +1,7 @@
+interface Componente {
+    double calcular();
+}
+
+
+
+
